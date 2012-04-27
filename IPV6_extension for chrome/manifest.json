@@ -1,0 +1,15 @@
+{
+  "name": "Extension to use IPV6",
+  "version": "1.0",
+  "description": "The first extension that I made.",
+  "browser_action": {
+      "popup": "background.html",
+      "default_icon": "icon.png"
+  },
+  "options_page": "test.html",
+  "background_page": "background.html", 
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*" 
+  ]
+}
+

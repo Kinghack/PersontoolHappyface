@@ -1,0 +1,19 @@
+<script>
+	var tablink;
+	chrome.tabs.getSelected(null,function(tab){
+		//console.log(tab.url);
+		open(tab.url);
+		chrome.tabs.remove(tab.id);
+		});
+        function open(tablink){
+		var sep = tablink.split("//");
+		var newlink; 
+		newlink = sep[0] + "//";
+		var pos = sep[1].indexOf("/");
+		var length = sep[1].length;
+		newlink = newlink+sep[1].substring(0,pos)+".sixxs.org"+sep[1].substring(pos,length);
+		console.log(newlink);
+	        chrome.tabs.create({'url': newlink}, function(tab) {});
+        }
+</script>
+ 
