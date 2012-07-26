@@ -25,7 +25,7 @@ def getCity(link, country):
         one = two
     return ci
 
-def getCountry(text, one, two):
+def getCountry(text, one, two, con):
     posone = 0
     country = {}
     while(posone >= 0):
@@ -47,7 +47,7 @@ def getCountry(text, one, two):
         pickle.dump(country, tmp)
         tmp.close()
         posone = postwo
-    tmp = open("all", "w")
+    tmp = open(con, "w")
     pickle.dump(country, tmp)
     tmp.close()
     #print country
@@ -58,19 +58,12 @@ def getContinent(text, one, two):
     while(posone >= 0):
         posone = text.find(one, posone)
         postwo = text.find(two, posone)
-        #test
-        continent = text.rfind('place', posone)
-        end = text.rfind('"', posone)
-        print text[continent:end]
-        print posone
-        print postwo
-        print continent
-        print end
-        break
-        #end
+        continent = text.rfind('place',0, posone)
+        end = text.rfind('"',0, posone)
+        con = text[continent+6:end-1]
         if posone < 0 :
             break
-        getCountry(text[posone:postwo], tabthree, tabfour)
+        getCountry(text[posone:postwo], tabthree, tabfour, con)
         posone = postwo
     return
 
