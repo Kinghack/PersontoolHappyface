@@ -1,0 +1,1190 @@
+(dp0
+V\u4f5b\u5f97\u89d2
+p1
+(Vhttp://tukeq.com/place/cape-verde/explore/
+p2
+(lp3
+tp4
+sV\u5384\u7acb\u7279\u91cc\u4e9a
+p5
+(Vhttp://tukeq.com/place/eritrea/explore/
+p6
+(lp7
+V       Asmara
+p8
+aV       Massawa
+p9
+aV       Asmara
+p10
+aV       Massawa
+p11
+atp12
+sV\u80af\u5c3c\u4e9a
+p13
+(Vhttp://tukeq.com/place/kenya/explore/
+p14
+(lp15
+V       Lake Naivasha
+p16
+aV       Nairobi
+p17
+aV       Mombasa
+p18
+aV       Kisumu
+p19
+aV       Malindi
+p20
+aV       Watamu
+p21
+aV       Lamu
+p22
+aV       Lake Naivasha
+p23
+aV       Nairobi
+p24
+aV       Mombasa
+p25
+aV       Kisumu
+p26
+aV       Malindi
+p27
+aV       Watamu
+p28
+aV       Lamu
+p29
+atp30
+sV\u535a\u8328\u74e6\u7eb3
+p31
+(Vhttp://tukeq.com/place/botswana/explore/
+p32
+(lp33
+V       Maun
+p34
+aV       Chobe National Park
+p35
+aV       Gaborone
+p36
+aV       Makgadikgadi And Nxai Pans National Park
+p37
+aV       Maun
+p38
+aV       Chobe National Park
+p39
+aV       Gaborone
+p40
+aV       Makgadikgadi And Nxai Pans National Park
+p41
+atp42
+sV\u52a0\u84ec
+p43
+(Vhttp://tukeq.com/place/gabon/explore/
+p44
+(lp45
+V       Libreville
+p46
+aV       Libreville
+p47
+atp48
+sV\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd
+p49
+(Vhttp://tukeq.com/place/democratic-republic-of-congo/explore/
+p50
+(lp51
+tp52
+sV\u9a6c\u62c9\u7ef4
+p53
+(Vhttp://tukeq.com/place/malawi/explore/
+p54
+(lp55
+V       Blantyre
+p56
+aV       Lilongwe
+p57
+aV       Blantyre
+p58
+aV       Lilongwe
+p59
+atp60
+sV\u7a81\u5c3c\u65af
+p61
+(Vhttp://tukeq.com/place/tunisia/explore/
+p62
+(lp63
+V       Tunis
+p64
+aV       Kairouan
+p65
+aV       Tabarka
+p66
+aV       Douz
+p67
+aV       Tozeur
+p68
+aV       Sousse
+p69
+aV       Tunis
+p70
+aV       Kairouan
+p71
+aV       Tabarka
+p72
+aV       Douz
+p73
+aV       Tozeur
+p74
+aV       Sousse
+p75
+atp76
+sV\u5229\u6bd4\u4e9a
+p77
+(Vhttp://tukeq.com/place/libya/explore/
+p78
+(lp79
+V       Tripoli
+p80
+aV       Tripoli
+p81
+atp82
+sV\u6d25\u5df4\u5e03\u97e6
+p83
+(Vhttp://tukeq.com/place/zimbabwe/explore/
+p84
+(lp85
+V       Harare
+p86
+aV       Bulawayo
+p87
+aV       Harare
+p88
+aV       Bulawayo
+p89
+atp90
+sV\u82cf\u4e39
+p91
+(Vhttp://tukeq.com/place/sudan/explore/
+p92
+(lp93
+tp94
+sV\u65af\u5a01\u58eb\u5170
+p95
+(Vhttp://tukeq.com/place/swaziland/explore/
+p96
+(lp97
+V       Mbabane
+p98
+aV       Piggs Peak
+p99
+aV       Mbabane
+p100
+aV       Piggs Peak
+p101
+atp102
+sV\u5357\u975e
+p103
+(Vhttp://tukeq.com/place/south-africa/explore/
+p104
+(lp105
+V       Cape Town
+p106
+aV       Johannesburg
+p107
+aV       Table Mountain National Park
+p108
+aV       Pretoria
+p109
+aV       Durban
+p110
+aV       Bloemfontein
+p111
+aV       The Garden Route
+p112
+aV       Gauteng
+p113
+aV       Kruger National Park
+p114
+aV       Oudtshoorn
+p115
+aV       Pietermaritzburg
+p116
+aV       Mpumalanga
+p117
+aV       Royal Natal National Park
+p118
+aV       Kwazulu Natal
+p119
+aV       Free State
+p120
+aV       Cape Town
+p121
+aV       Johannesburg
+p122
+aV       Table Mountain National Park
+p123
+aV       Pretoria
+p124
+aV       Durban
+p125
+aV       Bloemfontein
+p126
+aV       The Garden Route
+p127
+aV       Gauteng
+p128
+aV       Kruger National Park
+p129
+aV       Oudtshoorn
+p130
+aV       Pietermaritzburg
+p131
+aV       Mpumalanga
+p132
+aV       Royal Natal National Park
+p133
+aV       Kwazulu Natal
+p134
+aV       Free State
+p135
+atp136
+sV\u57c3\u585e\u4fc4\u6bd4\u4e9a
+p137
+(Vhttp://tukeq.com/place/ethiopia/explore/
+p138
+(lp139
+V       Addis Ababa
+p140
+aV       Aksum
+p141
+aV       Harar
+p142
+aV       Lalibela
+p143
+aV       Gonder
+p144
+aV       Simien Mountains National Park
+p145
+aV       Bale Mountains National Park
+p146
+aV       Addis Ababa
+p147
+aV       Aksum
+p148
+aV       Harar
+p149
+aV       Lalibela
+p150
+aV       Gonder
+p151
+aV       Simien Mountains National Park
+p152
+aV       Bale Mountains National Park
+p153
+atp154
+sV\u5229\u6bd4\u91cc\u4e9a
+p155
+(Vhttp://tukeq.com/place/liberia/explore/
+p156
+(lp157
+V       Monrovia
+p158
+aV       Monrovia
+p159
+atp160
+sV\u5766\u6851\u5c3c\u4e9a
+p161
+(Vhttp://tukeq.com/place/tanzania/explore/
+p162
+(lp163
+V       Serengeti National Park
+p164
+aV       Dar Es Salaam
+p165
+aV       Mwanza
+p166
+aV       Bagamoyo
+p167
+aV       Moshi
+p168
+aV       Arusha
+p169
+aV       Arusha National Park
+p170
+aV       Mbeya
+p171
+aV       Kigoma
+p172
+aV       Zanzibar Unguja
+p173
+aV       Zanzibar Archipelago
+p174
+aV       Lushoto And Usambara Mountains
+p175
+aV       Pemba
+p176
+aV       Serengeti National Park
+p177
+aV       Dar Es Salaam
+p178
+aV       Mwanza
+p179
+aV       Bagamoyo
+p180
+aV       Moshi
+p181
+aV       Arusha
+p182
+aV       Arusha National Park
+p183
+aV       Mbeya
+p184
+aV       Kigoma
+p185
+aV       Zanzibar Unguja
+p186
+aV       Zanzibar Archipelago
+p187
+aV       Lushoto And Usambara Mountains
+p188
+aV       Pemba
+p189
+atp190
+sV\u52a0\u7eb3\u5229\u7fa4\u5c9b
+p191
+(Vhttp://tukeq.com/place/canary-islands/explore/
+p192
+(lp193
+V       Corralejo
+p194
+aV       Gran Canaria
+p195
+aV       Los Cristianos Playa De Las Americas And Costa Adeje
+p196
+aV       Playa Del Ingles And Maspalomas
+p197
+aV       Parque Nacional Del Teide
+p198
+aV       Las Palmas De Gran Canaria
+p199
+aV       Puerto Naos
+p200
+aV       Arrecife
+p201
+aV       Playa Santiago
+p202
+aV       Los Cancajos
+p203
+aV       Santa Cruz De La Palma
+p204
+aV       El Medano
+p205
+aV       San Sebastian De La Gomera
+p206
+aV       Valverde
+p207
+aV       Santa Cruz De Tenerife
+p208
+aV       Corralejo
+p209
+aV       Gran Canaria
+p210
+aV       Los Cristianos Playa De Las Americas And Costa Adeje
+p211
+aV       Playa Del Ingles And Maspalomas
+p212
+aV       Parque Nacional Del Teide
+p213
+aV       Las Palmas De Gran Canaria
+p214
+aV       Puerto Naos
+p215
+aV       Arrecife
+p216
+aV       Playa Santiago
+p217
+aV       Los Cancajos
+p218
+aV       Santa Cruz De La Palma
+p219
+aV       El Medano
+p220
+aV       San Sebastian De La Gomera
+p221
+aV       Valverde
+p222
+aV       Santa Cruz De Tenerife
+p223
+aV       Costa Teguise
+p224
+aV       Puerto Del Carmen
+p225
+aV       Los Gigantes And Puerto De Santiago
+p226
+aV       La Restinga
+p227
+aV       Puerto De La Cruz
+p228
+aV       Morro Jable
+p229
+aV       Los Llanos De Aridane
+p230
+aV       La Orotava
+p231
+aV       Playa Blanca
+p232
+aV       La Laguna
+p233
+aV       Valle Gran Rey
+p234
+aV       Arucas
+p235
+aV       Hermigua
+p236
+aV       Icod De Los Vinos
+p237
+aV       Garachico
+p238
+aV       Fuencaliente
+p239
+aV       Villa De Mazo
+p240
+aV       Las Galletas
+p241
+aV       Tazacorte
+p242
+aV       Puerto Del Rosario
+p243
+aV       Ingenio And Aguimes
+p244
+aV       San Andres And Los Sauces
+p245
+aV       Betancuria
+p246
+aV       La Caleta De Famara
+p247
+aV       El Cotillo
+p248
+aV       Teror
+p249
+aV       Puerto De Mogan
+p250
+aV       Agaete And Puerto De Las Nieves
+p251
+aV       Candelaria
+p252
+aV       Teguise
+p253
+aV       Tenerife
+p254
+aV       Parque Nacional De La Caldera De Taburiente
+p255
+aV       Los Tiles
+p256
+atp257
+sV\u5c3c\u65e5\u5c14
+p258
+(Vhttp://tukeq.com/place/niger/explore/
+p259
+(lp260
+V       Niamey
+p261
+aV       Niamey
+p262
+atp263
+sV\u5e03\u57fa\u7eb3\u6cd5\u7d22
+p264
+(Vhttp://tukeq.com/place/burkina-faso/explore/
+p265
+(lp266
+V       Ouagadougou
+p267
+aV       Bobo Dioulasso
+p268
+aV       Ouagadougou
+p269
+aV       Bobo Dioulasso
+p270
+atp271
+sV\u5362\u65fa\u8fbe
+p272
+(Vhttp://tukeq.com/place/rwanda/explore/
+p273
+(lp274
+V       Kigali
+p275
+aV       Kigali
+p276
+atp277
+sV\u9a6c\u8fbe\u52a0\u65af\u52a0
+p278
+(Vhttp://tukeq.com/place/madagascar/explore/
+p279
+(lp280
+V       Maroantsetra
+p281
+aV       Toliara Tulear
+p282
+aV       Fianarantsoa
+p283
+aV       Antsirabe
+p284
+aV       Toamasina Tamatave
+p285
+aV       Mahajanga Majunga
+p286
+aV       Fort Dauphin Taolagnaro
+p287
+aV       Morondava
+p288
+aV       Maroantsetra
+p289
+aV       Toliara Tulear
+p290
+aV       Fianarantsoa
+p291
+aV       Antsirabe
+p292
+aV       Toamasina Tamatave
+p293
+aV       Mahajanga Majunga
+p294
+aV       Fort Dauphin Taolagnaro
+p295
+aV       Morondava
+p296
+atp297
+sV\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4
+p298
+(Vhttp://tukeq.com/place/sao-tome-and-principe/explore/
+p299
+(lp300
+tp301
+sV\u4e4d\u5f97
+p302
+(Vhttp://tukeq.com/place/chad/explore/
+p303
+(lp304
+tp305
+sV\u585e\u62c9\u5229\u6602
+p306
+(Vhttp://tukeq.com/place/sierra-leone/explore/
+p307
+(lp308
+V       Freetown
+p309
+aV       Freetown
+p310
+atp311
+sV\u9a6c\u91cc
+p312
+(Vhttp://tukeq.com/place/mali/explore/
+p313
+(lp314
+V       Bamako
+p315
+aV       Gao
+p316
+aV       Timbuktu Tombouctou
+p317
+aV       Djenne
+p318
+aV       Mopti
+p319
+aV       Segou
+p320
+aV       Bamako
+p321
+aV       Gao
+p322
+aV       Timbuktu Tombouctou
+p323
+aV       Djenne
+p324
+aV       Mopti
+p325
+aV       Segou
+p326
+atp327
+sV\u6bdb\u91cc\u5854\u5c3c\u4e9a
+p328
+(Vhttp://tukeq.com/place/mauritania/explore/
+p329
+(lp330
+V       Nouakchott
+p331
+aV       Nouakchott
+p332
+atp333
+sV\u57c3\u53ca
+p334
+(Vhttp://tukeq.com/place/egypt/explore/
+p335
+(lp336
+V       \u5f00\u7f57
+p337
+aV       High Dam
+p338
+aV       Hurghada
+p339
+aV       Aswan
+p340
+aV       El Alamein
+p341
+aV       Nuweiba
+p342
+aV       Alexandria
+p343
+aV       Beni Hasan
+p344
+aV       Wadi Natrun
+p345
+aV       Ismailia
+p346
+aV       Dahab
+p347
+aV       Sinai
+p348
+aV       Al Quseir
+p349
+aV       Minya
+p350
+aV       Siwa Oasis
+p351
+aV       \u5f00\u7f57
+p352
+aV       High Dam
+p353
+aV       Hurghada
+p354
+aV       Aswan
+p355
+aV       El Alamein
+p356
+aV       Nuweiba
+p357
+aV       Alexandria
+p358
+aV       Beni Hasan
+p359
+aV       Wadi Natrun
+p360
+aV       Ismailia
+p361
+aV       Dahab
+p362
+aV       Sinai
+p363
+aV       Al Quseir
+p364
+aV       Minya
+p365
+aV       Siwa Oasis
+p366
+aV       Mut
+p367
+aV       Qasr Al Farafra
+p368
+aV       Philae Agilkia Island
+p369
+aV       Al Qasr
+p370
+aV       Port Said
+p371
+aV       Sharm El Sheikh And Naama Bay
+p372
+aV       Asyut
+p373
+aV       Medinat Al Fayoum
+p374
+aV       Marsa Matruh
+p375
+aV       Eastern Desert
+p376
+aV       Rosetta Ar Rashid
+p377
+aV       Western Desert
+p378
+aV       Al Arish
+p379
+aV       Bawiti
+p380
+aV       Kom Ombo
+p381
+aV       Al Balyana
+p382
+aV       Daraw
+p383
+aV       Qena
+p384
+aV       Pyramids of Abu Sir
+p385
+aV       Saqqara
+p386
+aV       Dahshur
+p387
+aV       Red Sea Monasteries
+p388
+aV       Sohag
+p389
+aV       Birqash Camel Market
+p390
+aV       Baris
+p391
+aV       Sallum
+p392
+aV       Marsa Alam
+p393
+aV       Luxor
+p394
+atp395
+sV\u7559\u5c3c\u65fa\u5c9b
+p396
+(Vhttp://tukeq.com/place/reunion/explore/
+p397
+(lp398
+V       St Denis
+p399
+aV       Cirque De Salazie
+p400
+aV       St Pierre
+p401
+aV       St Denis
+p402
+aV       Cirque De Salazie
+p403
+aV       St Pierre
+p404
+atp405
+sV\u5e03\u9686\u8fea
+p406
+(Vhttp://tukeq.com/place/burundi/explore/
+p407
+(lp408
+V       Bujumbura
+p409
+aV       Bujumbura
+p410
+atp411
+sV\u51e0\u5185\u4e9a
+p412
+(Vhttp://tukeq.com/place/guinea/explore/
+p413
+(lp414
+V       Conakry
+p415
+aV       Conakry
+p416
+atp417
+sV\u6469\u6d1b\u54e5
+p418
+(Vhttp://tukeq.com/place/morocco/explore/
+p419
+(lp420
+V       \u5361\u8428\u5e03\u5170\u5361
+p421
+aV       Fes
+p422
+aV       Tangier
+p423
+aV       Rabat
+p424
+aV       Agadir
+p425
+aV       Draa Valley
+p426
+aV       Ceuta Sebta
+p427
+aV       Tetouan
+p428
+aV       Meknes
+p429
+aV       Chefchaouen
+p430
+aV       Zagora
+p431
+aV       Asilah
+p432
+aV       Melilla
+p433
+aV       Taroudannt
+p434
+aV       Essaouira
+p435
+aV       \u5361\u8428\u5e03\u5170\u5361
+p436
+aV       Fes
+p437
+aV       Tangier
+p438
+aV       Rabat
+p439
+aV       Agadir
+p440
+aV       Draa Valley
+p441
+aV       Ceuta Sebta
+p442
+aV       Tetouan
+p443
+aV       Meknes
+p444
+aV       Chefchaouen
+p445
+aV       Zagora
+p446
+aV       Asilah
+p447
+aV       Melilla
+p448
+aV       Taroudannt
+p449
+aV       Essaouira
+p450
+aV       Tafraoute
+p451
+aV       The Atlantic Coast
+p452
+aV       Marrakesh
+p453
+atp454
+sV\u83b1\u7d22\u6258
+p455
+(Vhttp://tukeq.com/place/lesotho/explore/
+p456
+(lp457
+V       Maseru
+p458
+aV       Maseru
+p459
+atp460
+sV\u5c3c\u65e5\u5229\u4e9a
+p461
+(Vhttp://tukeq.com/place/nigeria/explore/
+p462
+(lp463
+V       Lagos
+p464
+aV       Lagos
+p465
+atp466
+sV\u52a0\u7eb3
+p467
+(Vhttp://tukeq.com/place/ghana/explore/
+p468
+(lp469
+V       Accra
+p470
+aV       Kumasi
+p471
+aV       Accra
+p472
+aV       Kumasi
+p473
+atp474
+sV\u8d1d\u5b81
+p475
+(Vhttp://tukeq.com/place/benin/explore/
+p476
+(lp477
+V       Cotonou
+p478
+aV       Cotonou
+p479
+atp480
+sV\u585e\u820c\u5c14
+p481
+(Vhttp://tukeq.com/place/seychelles/explore/
+p482
+(lp483
+V       La Digue
+p484
+aV       Praslin
+p485
+aV       La Digue
+p486
+aV       Praslin
+p487
+atp488
+sV\u79d1\u6469\u7f57
+p489
+(Vhttp://tukeq.com/place/comoros/explore/
+p490
+(lp491
+tp492
+sV\u5409\u5e03\u63d0
+p493
+(Vhttp://tukeq.com/place/djibouti/explore/
+p494
+(lp495
+V       Djibouti City
+p496
+aV       Djibouti City
+p497
+atp498
+sV\u4e2d\u975e\u5171\u548c\u56fd
+p499
+(Vhttp://tukeq.com/place/central-african-republic/explore/
+p500
+(lp501
+tp502
+sV\u7eb3\u7c73\u6bd4\u4e9a
+p503
+(Vhttp://tukeq.com/place/namibia/explore/
+p504
+(lp505
+V       Luderitz
+p506
+aV       Windhoek
+p507
+aV       Swakopmund
+p508
+aV       Etosha National Park
+p509
+aV       Fish River Canyon National Park
+p510
+aV       Luderitz
+p511
+aV       Windhoek
+p512
+aV       Swakopmund
+p513
+aV       Etosha National Park
+p514
+aV       Fish River Canyon National Park
+p515
+atp516
+sV\u521a\u679c
+p517
+(Vhttp://tukeq.com/place/congo/explore/
+p518
+(lp519
+tp520
+sV\u83ab\u6851\u6bd4\u514b
+p521
+(Vhttp://tukeq.com/place/mozambique/explore/
+p522
+(lp523
+V       Pemba
+p524
+aV       Beira
+p525
+aV       Vilankulo
+p526
+aV       Maputo
+p527
+aV       Pemba
+p528
+aV       Beira
+p529
+aV       Vilankulo
+p530
+aV       Maputo
+p531
+atp532
+sV\u585e\u5185\u52a0\u5c14
+p533
+(Vhttp://tukeq.com/place/senegal/explore/
+p534
+(lp535
+V       Ziguinchor
+p536
+aV       Dakar
+p537
+aV       Ziguinchor
+p538
+aV       Dakar
+p539
+atp540
+sV\u8d64\u9053\u51e0\u5185\u4e9a
+p541
+(Vhttp://tukeq.com/place/equatorial-guinea/explore/
+p542
+(lp543
+tp544
+sV\u51e0\u5185\u4e9a\u6bd4\u7ecd
+p545
+(Vhttp://tukeq.com/place/guinea-bissau/explore/
+p546
+(lp547
+V       Bissau
+p548
+aV       Bissau
+p549
+atp550
+sV\u5b89\u54e5\u62c9
+p551
+(Vhttp://tukeq.com/place/angola/explore/
+p552
+(lp553
+V       Luanda
+p554
+aV       Luanda
+p555
+atp556
+sV\u963f\u5c14\u53ca\u5229\u4e9a
+p557
+(Vhttp://tukeq.com/place/algeria/explore/
+p558
+(lp559
+V       Oran
+p560
+aV       Constantine
+p561
+aV       Algiers
+p562
+aV       Djanet
+p563
+aV       Tlemcen
+p564
+aV       Ghazaouet
+p565
+aV       Timimoun
+p566
+aV       Tamanrasset
+p567
+aV       Beni Isguen
+p568
+aV       Annaba
+p569
+aV       In Salah
+p570
+aV       Taghit
+p571
+aV       Timgad
+p572
+aV       Ouargla
+p573
+aV       Assekrem
+p574
+aV       Oran
+p575
+aV       Constantine
+p576
+aV       Algiers
+p577
+aV       Djanet
+p578
+aV       Tlemcen
+p579
+aV       Ghazaouet
+p580
+aV       Timimoun
+p581
+aV       Tamanrasset
+p582
+aV       Beni Isguen
+p583
+aV       Annaba
+p584
+aV       In Salah
+p585
+aV       Taghit
+p586
+aV       Timgad
+p587
+aV       Ouargla
+p588
+aV       Assekrem
+p589
+aV       Adrar
+p590
+aV       El Atteuf
+p591
+aV       Djemila
+p592
+aV       Melika
+p593
+aV       Touggourt
+p594
+aV       Batna
+p595
+atp596
+sV\u8d5e\u6bd4\u4e9a
+p597
+(Vhttp://tukeq.com/place/zambia/explore/
+p598
+(lp599
+V       Lusaka
+p600
+aV       Lusaka
+p601
+atp602
+sV\u5580\u9ea6\u9686
+p603
+(Vhttp://tukeq.com/place/cameroon/explore/
+p604
+(lp605
+V       Yaounde
+p606
+aV       Maroua
+p607
+aV       Yaounde
+p608
+aV       Maroua
+p609
+atp610
+sV\u6bdb\u91cc\u6c42\u65af
+p611
+(Vhttp://tukeq.com/place/mauritius/explore/
+p612
+(lp613
+V       Port Louis
+p614
+aV       Grand Baie
+p615
+aV       Mahebourg
+p616
+aV       Port Louis
+p617
+aV       Grand Baie
+p618
+aV       Mahebourg
+p619
+atp620
+sV\u591a\u54e5
+p621
+(Vhttp://tukeq.com/place/togo/explore/
+p622
+(lp623
+V       Lome
+p624
+aV       Lome
+p625
+atp626
+sV\u5188\u6bd4\u4e9a
+p627
+(Vhttp://tukeq.com/place/the-gambia/explore/
+p628
+(lp629
+V       Banjul
+p630
+aV       Banjul
+p631
+atp632
+sV\u79d1\u7279\u8fea\u74e6
+p633
+(Vhttp://tukeq.com/place/cote-divoire/explore/
+p634
+(lp635
+V       Abidjan
+p636
+aV       Yamoussoukro
+p637
+aV       Abidjan
+p638
+aV       Yamoussoukro
+p639
+atp640
+sV\u4e4c\u5e72\u8fbe
+p641
+(Vhttp://tukeq.com/place/uganda/explore/
+p642
+(lp643
+V       Kampala
+p644
+aV       Jinja
+p645
+aV       Kampala
+p646
+aV       Jinja
+p647
+atp648
+s.
