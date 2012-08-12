@@ -5,8 +5,10 @@ import io
 import string
 import codecs
 import chardet
+import time
 from urllib2 import urlopen
 
+FILENAME = 'paper.txt'
 
 #find the url of next page
 def find_url(begin, end, content):
@@ -42,9 +44,9 @@ def txt_wrap_all(begin, end, url,num):
 #    result = []
     from_pos = 0
     if num == 1:
-          temp = open('paper.txt','w')
+          temp = open(FILENAME,'w')
     else:
-          temp = open('paper.txt','a')
+          temp = open(FILENAME,'a')
     temp.write('')
     temp.close()
     while True:
@@ -54,7 +56,7 @@ def txt_wrap_all(begin, end, url,num):
             endpos = content.find(end, start)
             if endpos >= 0:
 #                result.append(html[start:endpos].strip())
-                temp = open('paper.txt','a')
+                temp = open(FILENAME,'a')
                 temp.write(content[start:endpos].strip().encode('utf-8'))
                 temp.close()
                 #print html[start:endpos].strip().encode('utf-8') 
@@ -70,6 +72,7 @@ def txt_wrap_all(begin, end, url,num):
     if url is None:
         return
     print url
+    time.sleep(1)
     txt_wrap_all(begin,end,url,num)
     return 
 
@@ -78,7 +81,7 @@ def txt_wrap_all(begin, end, url,num):
 #冒死记录
 #url = "http://www.tianya.cn/techforum/content/16/1/627945.shtml"
 #五大贼王
-#url = "http://www.tianya.cn/techforum/content/16/1/623828.shtml"
+url = "http://www.tianya.cn/techforum/content/16/1/623828.shtml"
 #get content from web end
 #write to file begin
 #temp = open("content",'w')
@@ -93,22 +96,22 @@ def txt_wrap_all(begin, end, url,num):
 
 
 
-url = "http://www.tianya.cn/publicforum/content/free/1/2459458.shtml"
+#url = "http://www.tianya.cn/publicforum/content/free/1/2459458.shtml"
 #url = "http://www.tianya.cn/techforum/content/16/1/623828.shtml"
 #url = "http://www.tianya.cn/publicforum/content/university/1/309315.shtml"
-#begin = '作者：<a href="http://my.tianya.cn/368547" target="_blank">老夜</a>'
+begin = '作者：<a href="http://my.tianya.cn/368547" target="_blank">老夜</a>'
 end = '<div class="post-jb">'
-#begin = begin.decode('utf-8')
+begin = begin.decode('utf-8')
 end = end.decode('utf-8')
 num = 0
-author = '美如天仙苹果姐'
-authorId = ''
-if authorId == '':
-       begin = '作者：<a href="http://my.tianya.cn/name/'+author+'" target="_blank">'+author+'</a>'
-else :
-       begin = '作者：<a href="http://my.tianya.cn/'+authorId+'" target="_blank">'+author+'</a>'
+#author = '美如天仙苹果姐'
+#authorId = ''
+#if authorId == '':
+#       begin = '作者：<a href="http://my.tianya.cn/name/'+author+'" target="_blank">'+author+'</a>'
+#else :
+#       begin = '作者：<a href="http://my.tianya.cn/'+authorId+'" target="_blank">'+author+'</a>'
 print begin
-begin = begin.decode('utf-8')
+#begin = begin.decode('utf-8')
 txt_wrap_all(begin,end,url,num)
 
 
